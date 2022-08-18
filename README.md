@@ -24,6 +24,6 @@ I deeply love writing clean code. I feel productive using a highly-customized mi
 
 #### Recently published articles
 
-- Thu 18 Aug 2022 &emsp; [Architecture » REST]()
-- Thu 18 Aug 2022 &emsp; [Database » How to Design using Normal Forms]()
-- Thu 18 Aug 2022 &emsp; [Database » Rolling Migrations]()
+- Thu 18 Aug 2022 &emsp; [Architecture » REST](/docs/architecture/rest)
+- Thu 18 Aug 2022 &emsp; [Database » How to Design using Normal Forms](/docs/database/design)
+- Thu 18 Aug 2022 &emsp; [Database » Rolling Migrations](/docs/database/rolling-migrations)
