@@ -3,11 +3,9 @@
 -->
 
 <p align=center>
-<img align=left src="https://github-readme-stats.vercel.app/api?username=midnqp&theme=light&show_icons=true&include_all_commits=true&count_private=true&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnqp&layout=compact&langs_count=20&hide_border=true&show_owner=true"/>
+<img height=160rem align=left src="https://github-readme-stats.vercel.app/api?username=midnqp&theme=light&show_icons=true&include_all_commits=true&count_private=true&hide_border=true">
+<img height=160rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnqp&layout=compact&langs_count=20&hide_border=true&show_owner=true"/>
 </p>
-
-<br>
 
 Good day to you! I am Muhammad, a 👨‍💻 passionate software backend engineer focusing on Node.js and TypeScript. In my few years in the industry, I've improved my analytical thinking and collaboration skills. Now I know, we can reach Mars if we work in a team!
 
