@@ -24,6 +24,6 @@ I deeply love writing clean code. I feel productive using a highly-customized mi
 
 #### Recently published articles
 
-- Thu 18 Aug 2022 &emsp; [Architecture » REST](/docs/architecture/rest)
-- Thu 18 Aug 2022 &emsp; [Database » How to Design using Normal Forms](/docs/database/design)
-- Thu 18 Aug 2022 &emsp; [Database » Rolling Migrations](/docs/database/rolling-migrations)
+- Thu 18 Aug 2022 &emsp; [Architecture » REST](https://dev.to/midnqp/rest-api-a-quickread-for-backend-dev-3i70)
+- Thu 18 Aug 2022 &emsp; [Database » How to Design using Normal Forms](https://dev.to/midnqp/database-design-normal-forms-3i49)
+<!--- Thu 18 Aug 2022 &emsp; [Database » Rolling Migrations](https://midnqp.github.io/MidnQP/docs/database/rolling-migrations)-->
