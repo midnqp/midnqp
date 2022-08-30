@@ -32,9 +32,9 @@ I deeply love writing clean code. I feel productive using a highly-customized mi
 #### Top Repositories
 
 <a href="https://github.com/midnqp/nodejs-typescript-design-patterns">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=midnqp&repo=nodejs-typescript-design-patterns" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=midnqp&repo=nodejs-typescript-design-patterns" />
 </a>
-
+&nbsp;
 <a href="https://github.com/MidnQP/nodejs-microservices">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=midnqp&repo=nodejs-microservices" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MidnQP&repo=nodejs-microservices" />
 </a>
