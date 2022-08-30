@@ -20,7 +20,7 @@ positions!
 In my workplace, I develop large-scale 📦 backend applications, maintaining code quality & security best practices - while collaborating swiftly with the frontend team. I use a plethora of packages to achieve backend stability and maintainability
 
 
-I deeply love writing clean code. I feel productive using a highly-customized minimal setup of [Neovim](https://neovim.io) and [Linux](https://github.com/torvalds/linux).
+I deeply love writing clean code. I feel productive using a highly-customized minimal setup of [Neovim](https://neovim.io) and [Linux](https://github.com/torvalds/linux) - with a high typing speed of [113 WPM](https://user-images.githubusercontent.com/50658760/187357924-df7cdcab-d737-4517-aa14-871fdf5eee46.png).
 
 #### Recently published articles
 
