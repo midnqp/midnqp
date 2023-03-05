@@ -7,20 +7,7 @@
 <img height=160rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnqp&layout=compact&langs_count=20&hide_border=true&show_owner=true"/>
 </p>
 
-Hope you're having a productive day! I am Muhammad, a 👨‍💻
-passionate software backend engineer focusing on
-[Node.js](www.nodejs.org) and
-[TypeScript](www.typescriptlang.org). In my few years in the industry, I've worked on
-communication skills, and gained business insights. Previously, I was
-deeply invested in working with PHP and WordPress. In coming years,
-I'd love to pursue and further explore Golang and 💻 technical
-positions!
-
-
-In my workplace, I develop large-scale 📦 backend applications, maintaining code quality & security best practices - while collaborating swiftly with the frontend team. I use a plethora of packages to achieve backend stability and maintainability
-
-
-I deeply love writing clean code. I feel productive using a highly-customized minimal setup of [Neovim](https://neovim.io) and [Linux](https://github.com/torvalds/linux) - with a high typing speed of [113 WPM](https://user-images.githubusercontent.com/50658760/187357924-df7cdcab-d737-4517-aa14-871fdf5eee46.png).
+Hope you're having a productive day! I am Muhammad, a 👨‍💻 passionate software backend engineer focusing on [Node.js](www.nodejs.org) and [TypeScript](www.typescriptlang.org). In my few years in the industry, I've worked on a wide range of software products. Previously I was invested in working with Laravel. In coming years, I'd love to pursue and explore Golang and 💻 technical positions! In my workplace,  I develop large-scale 📦 backend applications, maintaining code quality & security best practices - while collaborating with various layers of teams. I make sure to use the right tool for the right job, and I feel productive using a highly-customized minimal setup of [Neovim](https://neovim.io) and [Linux](https://github.com/torvalds/linux), and a typing speed of [113 WPM](https://user-images.githubusercontent.com/50658760/187357924-df7cdcab-d737-4517-aa14-871fdf5eee46.png).
 
 #### Recently published articles
 
