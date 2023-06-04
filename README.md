@@ -1,27 +1,27 @@
-<!-- 
-![](https://user-images.githubusercontent.com/50658760/147412796-3d3ee35c-685f-4092-bcb0-618fbf5ecbdb.png)
--->
 
 <p align=center>
-<img height=160rem align=left src="https://github-readme-stats.vercel.app/api?username=midnqp&theme=light&show_icons=true&include_all_commits=true&count_private=true&hide_border=true">
-<img height=160rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnqp&layout=compact&langs_count=20&hide_border=true&show_owner=true"/>
+<img align=left src="https://github-readme-stats.vercel.app/api?username=midnqp&theme=light&show_icons=true&include_all_commits=true&count_private=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnqp&layout=compact&langs_count=20&hide_border=true&show_owner=true"/>
 </p>
 
-Hope you're having a productive day! I am Muhammad, a 👨‍💻 passionate software backend engineer focusing on [Node.js](www.nodejs.org) and [TypeScript](www.typescriptlang.org). In my few years in the industry, I've worked on a wide range of software products. Previously I was invested in working with Laravel. In coming years, I'd love to pursue and explore Golang and 💻 technical positions! In my workplace,  I develop large-scale 📦 backend applications, maintaining code quality & security best practices - while collaborating with various layers of teams. I make sure to use the right tool for the right job, and I feel productive using a highly-customized minimal setup of [Neovim](https://neovim.io) and [Linux](https://github.com/torvalds/linux), and a typing speed of [113 WPM](https://user-images.githubusercontent.com/50658760/187357924-df7cdcab-d737-4517-aa14-871fdf5eee46.png).
-
-#### Recently published articles
+Software is magic and elegant - when built with unwavering passion. I enjoy experimenting and developing opensource projects; and sharing what I discover. Endlessly learning and committed to it - taking one step at a time every bright day. In the world of software engineering, this is too feasible to be intimidated by its wide extent. However, consistency is always the key to legibility.
 
 - Sat 20 Aug 2022 &emsp; [Node.js » Bundling and packaging Node.js code into an executable binary](https://dev.to/midnqp/bundling-nodejs-into-single-executable-binary-l3g)
 - Thu 18 Aug 2022 &emsp; [Architecture » REST API](https://dev.to/midnqp/rest-api-a-quickread-for-backend-dev-3i70)
 - Thu 18 Aug 2022 &emsp; [Database » How to Design using Normal Forms](https://dev.to/midnqp/database-design-normal-forms-3i49)
 <!--- Thu 18 Aug 2022 &emsp; [Database » Rolling Migrations](https://midnqp.github.io/MidnQP/docs/database/rolling-migrations)-->
 
-#### Top Repositories
-
-<a href="https://github.com/midnqp/nodejs-typescript-design-patterns">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=midnqp&repo=nodejs-typescript-design-patterns" />
-</a>
-&nbsp;
-<a href="https://github.com/MidnQP/nodejs-microservices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MidnQP&repo=nodejs-microservices" />
-</a>
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+<br>
+![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+<br>
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
