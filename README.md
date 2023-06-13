@@ -6,10 +6,12 @@
 
 Software is magic and elegant - when built with unwavering passion. I enjoy experimenting and developing opensource projects; and sharing what I discover. Endlessly learning and committed to it - taking one step at a time every bright day. In the world of software engineering, this is too feasible to be intimidated by its wide extent. However, consistency is always the key to legibility.
 
-- Sat 20 Aug 2022 &emsp; [Node.js » Bundling and packaging Node.js code into an executable binary](https://dev.to/midnqp/bundling-nodejs-into-single-executable-binary-l3g)
-- Thu 18 Aug 2022 &emsp; [Architecture » REST API](https://dev.to/midnqp/rest-api-a-quickread-for-backend-dev-3i70)
-- Thu 18 Aug 2022 &emsp; [Database » How to Design using Normal Forms](https://dev.to/midnqp/database-design-normal-forms-3i49)
-<!--- Thu 18 Aug 2022 &emsp; [Database » Rolling Migrations](https://midnqp.github.io/MidnQP/docs/database/rolling-migrations)-->
+- Tue 13 Jun 2023 &ensp; [Opinion » My journey from Vim/Neovim to VS code](https://dev.to/midnqp/my-journey-into-vimneovim-23n5)
+- Sun 20 Nov 2022 &ensp; [Opinion » The Fuss of Cross-Compiling C/C++](https://dev.to/midnqp/compiling-cc-on-both-windows-and-linux-with-address-sanitizer-3ikn)
+- Sat 20 Aug 2022 &ensp; [Backend » Packaging Node.js code into an exe binary](https://dev.to/midnqp/bundling-nodejs-into-single-executable-binary-l3g)
+- Thu 18 Aug 2022 &ensp; [Backend » Have some REST](https://dev.to/midnqp/rest-api-a-quickread-for-backend-dev-3i70)
+- Thu 18 Aug 2022 &ensp; [Backend » How to design a scalable database](https://dev.to/midnqp/database-design-normal-forms-3i49)
+- Tue 7 Sep 2021 &ensp; [Opinion » How I got into Software](https://dev.to/midnqp/how-i-got-into-computer-engineering-58gb)
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
