@@ -19,15 +19,11 @@ A few topics that I researched and articulated:
 
 <br>
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&labelColor=white&color=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&labelColor=white&color=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=white&color=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&labelColor=white&color=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&labelColor=white&color=white)
-<br>
-![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&labelColor=white&color=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&labelColor=white&color=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&labelColor=white&color=white)
+![](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&labelColor=%2300000000&color=%2300000000)
+![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&labelColor=%2300000000&color=%2300000000)
+![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=%2300000000&color=%2300000000)
+![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&labelColor=%2300000000&color=%2300000000)
+![](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&labelColor=%2300000000&color=%2300000000)
 
 <!-- 
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&labelColor=white&color=white)
