@@ -19,11 +19,19 @@ A few topics that I researched and articulated:
 
 <br>
 
+![](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&labelColor=grey&color=grey)
+![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&labelColor=grey&color=grey)
+![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=grey&color=grey)
+![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&labelColor=grey&color=grey)
+![](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&labelColor=grey&color=grey)
+
+<!--
 ![](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&labelColor=%2300000000&color=%2300000000)
 ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&labelColor=%2300000000&color=%2300000000)
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=%2300000000&color=%2300000000)
 ![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&labelColor=%2300000000&color=%2300000000)
 ![](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&labelColor=%2300000000&color=%2300000000)
+-->
 
 <!-- 
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&labelColor=white&color=white)
