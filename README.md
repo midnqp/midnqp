@@ -35,10 +35,12 @@ I am a quick-learner. And the best way **to learn is to build**. As I learn a ne
 
 <br>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=midnqp&repo=chatnet-web&theme=transparent)](https://github.com/midnqp/chatnet-web)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=midnqp&repo=dashboard&theme=transparent)](https://github.com/midnqp/nextjs-dashboard)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=midnqp&repo=reactjs&theme=transparent)](https://github.com/midnqp/reactjs)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=midnqp&repo=nextjs&theme=transparent)](https://github.com/midnqp/nextjs)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=midnqp&repo=backend&theme=transparent)](https://github.com/midnqp/backend)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=midnqp&repo=cpy&theme=transparent)](https://github.com/midnqp/cpy)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=midnqp&repo=c&theme=transparent)](https://github.com/midnqp/c)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=midnqp&repo=nodejs&theme=transparent)](https://github.com/midnqp/nodejs)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=midnqp&repo=nestjs&theme=transparent)](https://github.com/midnqp/nestjs)
 
 <!--
 ![](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&labelColor=%2300000000&color=%2300000000)
