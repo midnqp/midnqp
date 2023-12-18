@@ -15,15 +15,28 @@ A few topics that I researched and articulated:
 - Tue 13 Jun 2023 &ensp; [My journey from Vim/Neovim to VS code](https://dev.to/midnqp/my-journey-into-vimneovim-23n5)
 - Sun 20 Nov 2022 &ensp; [The Fuss of Cross-Compiling C/C++](https://dev.to/midnqp/compiling-cc-on-both-windows-and-linux-with-address-sanitizer-3ikn)
 - Sat 20 Aug 2022 &ensp; [Packaging Node.js code into an exe binary](https://dev.to/midnqp/bundling-nodejs-into-single-executable-binary-l3g)
-- Thu 18 Aug 2022 &ensp; [Have some REST](https://dev.to/midnqp/rest-api-a-quickread-for-backend-dev-3i70)
+- Thu 18 Aug 2022 &ensp; [How to correctly design REST APIs](https://dev.to/midnqp/rest-api-a-quickread-for-backend-dev-3i70)
 
-<br>
+<!--br>
 
 ![](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&labelColor=grey&color=grey)
 ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&labelColor=grey&color=grey)
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=grey&color=grey)
 ![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&labelColor=grey&color=grey)
 ![](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&labelColor=grey&color=grey)
+-->
+
+<br>
+
+<!-- Learn by building projects. Pinned repos are my saas products. -->
+I am a quick-learner. And the best way **to learn is to build**. As I learn a new programming language or framework or concept, I quickly build something using it. Or I note that down in the README. This reinforces and strengthens what I know.
+
+<br>
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=midnqp&repo=chatnet-web&theme=transparent)](https://github.com/midnqp/chatnet-web)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=midnqp&repo=dashboard&theme=transparent)](https://github.com/midnqp/nextjs-dashboard)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=midnqp&repo=backend&theme=transparent)](https://github.com/midnqp/backend)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=midnqp&repo=cpy&theme=transparent)](https://github.com/midnqp/cpy)
 
 <!--
 ![](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&labelColor=%2300000000&color=%2300000000)
