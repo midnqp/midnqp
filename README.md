@@ -1,10 +1,12 @@
-
 <p align=center>
-<img align=left src="https://github-readme-stats.vercel.app/api?username=midnqp&theme=transparent&show_icons=true&include_all_commits=true&count_private=true&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnqp&theme=transparent&layout=compact&langs_count=20&hide_border=true&show_owner=true" />
+<img align=left src="https://github-readme-stats.vercel.app/api?username=midnqp&theme=transparent&show_icons=true&count_private=true&hide_border=false&hide_rank=true&include_all_commits=true&custom_title=GitHub%20Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnqp&theme=transparent&layout=compact&langs_count=8&hide_border=false" />
 </p>
 
-Software is magic and elegant - when built with unwavering passion. I enjoy experimenting and developing opensource projects; and sharing what I discover. Endlessly learning and committed to it - taking one step at a time every bright day. In the world of software engineering, this is too feasible to be intimidated by its wide extent. However, consistency is always the key to legibility.
+<br>
+<br>
+
+<p>Software is magic and elegant - when built with unwavering passion. I enjoy experimenting and developing opensource projects; and sharing what I discover. Endlessly learning and committed to it - taking one step at a time every bright day. In the world of software engineering, this is too feasible to be intimidated by its wide extent. However, consistency is always the key to legibility.</p>
 
 <br>
 
