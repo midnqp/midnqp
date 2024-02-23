@@ -32,6 +32,7 @@ My knowledge repositories:
 - [reactjs](https://github.com/midnqp/reactjs) &emsp; My notes on React.js — coming soon.
 - [nestjs](https://github.com/midnqp/nestjs) &emsp; My notes on Nest.js — coming soon.
 - [linux](https://github.com/midnqp/linux) &emsp; My notes on Linux — coming soon.
+- [c](https://github.com/midnqp/c) &emsp; My notes on C.
 - [nodejs](https://github.com/midnqp/nodejs) &emsp; My notes on Node.js — including Event Loop, TypeScript, ESM vs CJS, and design patterns.
 
 <br>
