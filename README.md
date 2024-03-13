@@ -28,7 +28,8 @@ I am a quick-learner. And the best way **to learn is to build**. As I learn a ne
 <br>
 
 My knowledge repositories:
-- [backend-dev](https://github.com/midnqp/backend-dev) &emsp; My notes on software backend in general — including API design, security, scalability, and architecture.
+- [backend-dev](https://github.com/midnqp/backend-dev) &emsp; My notes on software backend — including API design, security, scalability, and architecture.
+- [software-dev](https://github.com/midnqp/software-dev) &emsp; My notes on software engineering & software design.
 - [reactjs](https://github.com/midnqp/reactjs) &emsp; My notes on React.js — coming soon.
 - [nestjs](https://github.com/midnqp/nestjs) &emsp; My notes on Nest.js — coming soon.
 - [linux](https://github.com/midnqp/linux) &emsp; My notes on Linux — coming soon.
